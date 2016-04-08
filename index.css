@@ -1,0 +1,16 @@
+body{
+	background-image: url("http://www.inbilbao.com/img/fondo_pagina2.jpg");
+    
+}
+img{
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	margin-left: 50px;	
+}
+img:hover{
+	opacity: 0.5;
+}
+h1{
+	color:#800000;
+}
